@@ -1,0 +1,12 @@
+{
+  "name": "fotonic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "aws s3 cp --recursive ./build s3://fotonic-photos.com"
+  },
+  "author": "",
+  "license": "ISC"
+}
