@@ -1,7 +1,9 @@
 body {
   background-color: black;
-  background-image: url('/img/IMG_0361.jpg');
-  background-position:cover;
+  background-image: url('../img/IMG_0361.jpg');
+  background-position:center top;
+  background-size: cover;
+  background-repeat: no-repeat;
   }
 footer {
   color:white;
