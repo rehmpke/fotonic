@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "aws s3 cp --recursive ./build s3://fotonic-photos.com"
+    "deploy": "aws s3 cp --recursive ./_site s3://fotonic-photos.com"
   },
   "author": "",
   "license": "ISC"

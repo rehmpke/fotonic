@@ -1,0 +1,18 @@
+title: "Fotonic-Photos"
+email: ""
+google-tag_key: 'GTM-MLCZRDC'
+description: > # this means to ignore newlines until "baseurl:"
+  "Photography portfolio site for Jordyn."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jnehmpke
+github_username:  jnehmpke
+author : Jordyn N Ehmpke
+exclude:
+  - ".jekyll-cache/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules/"
+  - "package.json"
+  - "package-lock.json"
+  - "README.md"

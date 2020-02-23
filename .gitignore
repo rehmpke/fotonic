@@ -29,3 +29,13 @@ package-lock.json
 # Ignore gem lock to avoid mac/windows discrepencies
 Gemfile.lock
 
+# Ignore jekyll files
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+### Gem/Bundler stuffs to ignore ###
+*.gem
+.bundle
